@@ -3,7 +3,7 @@
 **Nombre o alias:** Jonas Reyes
 **¿Por qué es usuario real del tema?:** Se transporta diariamente en carro o a pie hacia su trabajo, enfrentando problemas con el parqueo y el tráfico.
 **Fecha:** 12-jul-2026
-**Duración:** 12 min 33 seg
+**Duración:** 16 min 33 seg
 
 ## Respuestas 
 
