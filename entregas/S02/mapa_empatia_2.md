@@ -16,9 +16,9 @@
 - [CITA] "Por la incertidumbre de no saber cuándo va a pasar el bus, uno ya no puede planificar bien el día."
 
 ## 🧠 PIENSA — lo que cree y no dice
-- [INF] Puede sentir que no tiene control sobre su tiempo, ya que su rutina depende casi por completo de factores externos (horario del bus, tráfico).
-- [INF] Es posible que perciba injusto tener que elegir entre gastar más (combinar buses) o arriesgarse a llegar tarde.
-- [INF] Puede sentir que sus profesores no dimensionan del todo lo impredecible que es su transporte, más allá de lo que alcanza a explicar en el momento.
+- [INF] Siente que no controla su tiempo, porque todo depende del horario del bus y del tráfico, no de ella.
+- [INF] Le parece injusto tener que elegir entre gastar más plata combinando buses o arriesgarse a llegar tarde.
+- [INF] Cree que sus profesores no entienden del todo lo impredecible que es su transporte todos los días.
 
 ## 🏃 HACE — comportamientos concretos que describió
 - [CITA] "Salí como cuarenta minutos antes de lo normal, calculando que el bus se podía tardar."
