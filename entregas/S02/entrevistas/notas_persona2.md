@@ -1,9 +1,9 @@
 # Notas de entrevista — Persona 2
 
-Nombre o alias: Sofia Reyes
-¿Por qué es usuario real del tema?: Es una estudiante universitaria y se transporta en autobús. Viajes de más de media hora por tráfico, y hasta una hora de espera de bus al salir, por tráfico y escasez de buses.
-Fecha: 12-jul-2026
-Duración: 14 min 23 seg
+**Nombre o alias:** Sofia Reyes
+**¿Por qué es usuario real del tema?:** Es una estudiante universitaria y se transporta en autobús. Viajes de más de media hora por tráfico, y hasta una hora de espera de bus al salir, por tráfico y escasez de buses.
+**Fecha:** 12-jul-2026
+**Duración:** 14 min 23 seg
 
 ## Respuestas 
 
