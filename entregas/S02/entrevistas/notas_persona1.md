@@ -1,7 +1,7 @@
 # Notas de entrevista — Persona 1
 
 Nombre o alias: Jonas Reyes
-¿Por qué es usuario real del tema?: Porque al momento de dirijirse a su trabajo, a veces va en carro, a veces a pie. Dificultad para encontrar parqueo y tráfico pesado a la hora de salida.
+¿Por qué es usuario real del tema?: Se transporta diariamente en carro o a pie hacia su trabajo, enfrentando problemas con el parqueo y el tráfico.
 Fecha: 12-jul-2026
 Duración: 12 min 33 seg
 
@@ -31,3 +31,4 @@ P (cierre):"Sí, que a veces por no encontrar parqueo terminás caminando por zo
 
 
 ## Observaciones 
+Hablo con un tono resignado al hablar del parqueo, como si fuera un problema que se asume como "normal". Se nota con más molestia al recordar el episodio de la lluvia. Hizo énfasis en el tema de seguridad al final, algo que no había mencionado antes en la entrevista.
