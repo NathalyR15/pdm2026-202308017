@@ -1,10 +1,10 @@
-# Mapa de empatía — {Nombre o alias del entrevistado}
+# Mapa de empatía — {Nombre del entrevistado}
 
 ## Datos de la entrevista
 
 |Campo|Dato|
 |---|---|
-|Nathaly Reyes (202308017)||
+|Estudiante (carnet)||
 |Tema elegido|Transporte y movilidad diaria|
 |Entrevistado (nombre o alias)||
 |¿Por qué es usuario real del tema?||
