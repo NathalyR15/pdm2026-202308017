@@ -8,7 +8,7 @@
 |Entrevistado (nombre o alias)|Sofía Reyes|
 |¿Por qué es usuario real del tema?|Se transporta en autobús diariamente hacia la Universidad|
 |Fecha y duración|12-jul-2026|
-|Evidencia (archivo en `entrevistas/`)|entrevistas/notas_persona2.md|
+|Evidencia (archivo en `entrevistas/`)|entregas/S02/entrevistas/notas_persona2.md|
 
 ## 🗣️ DICE — lo que dijo en voz alta
 - [CITA] "El bus se tardó como veinte minutos en pasar... había tráfico en el camino."
