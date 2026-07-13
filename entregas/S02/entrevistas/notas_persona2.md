@@ -1,4 +1,4 @@
-# Notas de entrevista — Persona 1
+# Notas de entrevista — Persona 2
 
 Nombre o alias: Sofia Reyes
 ¿Por qué es usuario real del tema?: Es una estudiante universitaria y se transporta en autobús. Viajes de más de media hora por tráfico, y hasta una hora de espera de bus al salir, por tráfico y escasez de buses.
@@ -33,3 +33,4 @@ P10: "Sería que los buses pasaran con horarios más frecuentes y confiables, y 
 p (cierre): "Sí, que a veces por la incertidumbre de no saber cuándo va a pasar el bus, uno ya no puede planificar bien el día, siempre hay que dejar un margen grande de tiempo por si acaso, y eso quita tiempo para otras cosas."
 
 ## Observaciones 
+Se notó frustración al hablar de la escasez de buses de su ruta específica. Mencionó varias veces la falta de opciones alternativas. El tono cambió a más cansado al describir la espera bajo la lluvia.
