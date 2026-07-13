@@ -30,7 +30,7 @@ P9: "Un día llovió muy fuerte y el bus se tardó casi una hora y media en pasa
 
 P10: "Sería que los buses pasaran con horarios más frecuentes y confiables, y que hubiera menos tráfico en la ruta hacia la universidad. También que las paradas tuvieran algún techo o resguardo para cuando llueve."
 
-p (cierre): "Sí, que a veces por la incertidumbre de no saber cuándo va a pasar el bus, uno ya no puede planificar bien el día, siempre hay que dejar un margen grande de tiempo por si acaso, y eso quita tiempo para otras cosas."
+p (cierre): "Sí, que a veces Por el hecho de no saber cuándo va a pasar el bus, uno ya no puede planificar bien la hora de llegada, siempre hay que dejar un margen grande de tiempo por si acaso, y eso quita tiempo para otras cosas."
 
 ## Observaciones 
 Se notó frustración al hablar de la escasez de buses de su ruta específica. Mencionó varias veces la falta de opciones alternativas. El tono cambió a más cansado al describir la espera bajo la lluvia.
