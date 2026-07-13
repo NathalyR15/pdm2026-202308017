@@ -4,11 +4,11 @@
 
 |Campo|Dato|
 |---|---|
-|Estudiante (carnet)||
+|Estudiante (carnet)|Nathaly Reyes, 202308017|
 |Tema elegido|Transporte y movilidad diaria|
-|Entrevistado (nombre o alias)||
-|¿Por qué es usuario real del tema?||
-|Fecha y duración||
+|Entrevistado (nombre o alias)|Jonas Reyes|
+|¿Por qué es usuario real del tema?|Se transporta diariamente en carro o a pie a su trabajo|
+|Fecha y duración|12-jul-2026|
 |Evidencia (archivo en `entrevistas/`)||
 
 ## 🗣️ DICE — lo que dijo en voz alta
