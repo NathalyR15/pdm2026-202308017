@@ -17,10 +17,9 @@
 - [CITA] "A la hora de salida es peor, porque todos salimos casi a la misma hora y el tráfico se hace bola."
 
 ## 🧠 PIENSA — lo que cree y no dice
-- [INF] Probablemente siente que el problema del parqueo "no tiene solución" y por eso ya lo asume como rutina en vez de buscar alternativas.
-- [INF] Puede pensar que depende únicamente de su propia planificación (salir con más tiempo) para compensar un problema que en realidad es estructural de la zona.
-- [INF] Es posible que le preocupe más de lo que expresa directamente el tema de la seguridad al caminar distancias largas hasta el carro.
-
+- [INF] Para él, el problema del parqueo ya no tiene solución, así que lo asume como rutina en vez de buscar alternativas.
+- [INF] Cree que todo depende de su propia planificación (salir con más tiempo), aunque el problema real es que no hay suficiente espacio de parqueo en la zona.
+- [INF] Al final mencionó el tema de la seguridad al caminar tramos largos — parece que le preocupa más de lo que deja ver normalmente.
 ## 🏃 HACE — comportamientos concretos que describió
 - [CITA] "Trato de evitar la calle principal de salida... prefiero dar una vuelta más larga pero por calles menos congestionadas."
 - [CITA] "Pongo la radio o algún podcast para no desesperarme tanto."
