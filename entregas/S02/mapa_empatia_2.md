@@ -41,5 +41,5 @@
 - [INF] Paradas con techo o resguardo para protegerse del clima mientras espera.
 
 ## Cierre
-**La frase que más se me quedó (cita textual):** "Por la incertidumbre de no saber cuándo va a pasar el bus, uno ya no puede planificar bien el día."
+**La frase que más se me quedó :** "Por el hecho de no saber cuándo va a pasar el bus, uno ya no puede planificar bien la hora de llegada."
 **Lo que yo asumía antes de la entrevista y resultó distinto:** Se asumía que el problema principal sería solo la duración del viaje en bus, pero resultó que la espera impredecible del bus (hasta una hora) es la parte que más afecta su planificación diaria.
