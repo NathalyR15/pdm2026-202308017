@@ -8,3 +8,4 @@
 | **Punto de dolor** | — |  No hay parqueo disponible cerca de su destino | [No tiene alternativa más que caminar expuesto a la lluvia | "Eso también preocupa, no solo es el tiempo perdido" |
 
 
+<img width="703" height="469" alt="image" src="https://github.com/user-attachments/assets/18579337-7245-4dbe-bcc0-45f26f83302e" />
