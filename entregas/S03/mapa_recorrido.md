@@ -7,5 +7,4 @@
 | **Emoción** | 🟡 tranquilidad | 🟡 frustración creciente | 🟡 incomodidad, urgencia | 🟡 vergüenza, resignación |
 | **Punto de dolor** | — |  No hay parqueo disponible cerca de su destino | [No tiene alternativa más que caminar expuesto a la lluvia | "Eso también preocupa, no solo es el tiempo perdido" |
 
-## Definición del problema
-Jonas necesita un lugar de parqueo cercano y confiable a la hora de llegar a su trabajo, porque la escasez de espacios en la zona lo obliga a caminar varias cuadras sin protección ante el clima, perdiendo tiempo y sintiéndose inseguro en el trayecto.
+
