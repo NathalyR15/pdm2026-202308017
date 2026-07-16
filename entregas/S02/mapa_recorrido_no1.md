@@ -4,7 +4,7 @@
 |---|---|---|---|---|
 | **Acción** | [CITA] "Salí de la casa como siempre, en carro, porque tenía que llegar temprano" | [CITA] "Tuve que dejar el carro más lejos de lo normal" | [INF] Camina varias cuadras bajo la lluvia hacia su destino | [CITA] "Llegué empapado y tarde a la reunión" |
 | **Piensa** | [INF] Cree que salir con tiempo de sobra es suficiente para llegar bien | [INF] Empieza a dudar si va a encontrar espacio a tiempo | [INF] Solo piensa en llegar lo más rápido posible, sin importar mojarse | [INF] Siente que hizo todo lo posible y aun así no fue suficiente |
-| **Emoción** | tranquilidad | frustración creciente | incomodidad, urgencia | vergüenza, resignación |
+| **Emoción** | 🟡 tranquilidad | 🟡 frustración creciente | 🟡 incomodidad, urgencia | 🟡 vergüenza, resignación |
 | **Punto de dolor** | — | [INF] No hay parqueo disponible cerca de su destino | [INF] No tiene alternativa más que caminar expuesto a la lluvia | [CITA] "Eso también preocupa, no solo es el tiempo perdido" |
 
 ## Definición del problema
