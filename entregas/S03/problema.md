@@ -1,6 +1,6 @@
 # Definición del problema — Jonas
 
-## La frase (una sola oración)
+## La frase 
 
 POV:
 > Jonas necesita llegar a tiempo a su trabajo sin arriesgarse caminando tramos largos, porque hoy la falta de parqueo cercano lo obliga a dejar el carro lejos y exponerse al tráfico, la lluvia y la inseguridad.
